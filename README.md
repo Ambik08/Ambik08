@@ -71,7 +71,6 @@ A real-time bus tracking application that helps users track bus locations and ro
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
 
 <div align="center">
 
